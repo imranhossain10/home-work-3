@@ -1,0 +1,17 @@
+h1{
+    background-color: #282A35;
+    border: 3px solid rgba(00, 00, 00, 0.6);
+    color: white;
+}
+p{
+    background-color: #282A35;
+    font-size: 14pt;
+    border: 3px solid rgba(00, 00, 00, 0.6);
+    color: white;
+}
+.bigsize{
+    font-size: 35px;
+}
+#articale{
+    background-color: #282A35;
+}
